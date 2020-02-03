@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Catapult Panelized.PcbDoc   11/29/2019  10:32:22 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NC Drill-RoundHoles.TXT
+ASCII SlotHoles File : NC Drill-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      100mil (2.54mm)                                           Slot              2         PTH        0.00inch (0.00mm)
+T2      600mil (15.24mm)                                          Slot              1         PTH        0.00inch (0.00mm)
+T3      31mil (0.787mm)                                           Round             52        NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              55
+
+Total Processing Time (hh:mm:ss) : 00:00:00
